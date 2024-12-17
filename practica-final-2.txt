@@ -1,0 +1,35 @@
+---------------------------------------------------
+Problematica:
+La compañia estadounidenseesta realizando un nuevo modelo de muebles 
+basados en los planos de un famoso diseñador, pero muchas piezas no 
+han ecajado correctamente debido a que los planos estan en cm y las
+maquinarias americanas estan en pulgadas.
+---------------------------------------------------
+
+---------------------------------------------------
+Algoritmo:
+1. Solicitar al usuario el ingreso de la cantidad de cm a convertir
+2. Realizar la conversion.
+3. Mostrar el resultado de la conversion al usuario.
+ 
+  
+--------------------------------------------
+
+--------------------------------------------
+Pseudocodigo.
+
+Incio del programa.
+
+   
+
+    # Paso 1: Solicitar al usuario la medida en cm a convertir, definiendo cm.
+    Mostrar mensaje: "Ingrese medidas en cm a convertir: "
+
+    # Paso 2: Realizar la conversion.
+    resultado = cm * 0.393701
+
+    # Paso 3: Mostrar el resultado de la conversion al usuario.
+    Mostrar mensaje: "El resultado de la conversion de cm a Pulgada es:" , resultado
+
+Fin
+
